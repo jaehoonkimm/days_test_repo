@@ -2,3 +2,6 @@ My first project
 
 ---------
 New code line
+
+--------
+New code line 2
